@@ -1,5 +1,5 @@
 ---
-title: CSS3中两种动画表现形势的优劣
+title: CSS3中两种动画表现形式的优劣
 subtitle: The differences between transition/transform and animation in CSS3
 header-img: /img/post-css-difference.jpg
 date: 2016-08-19 15:33:16
@@ -30,7 +30,7 @@ transform: none|transform-functions|initial|inherit;
 
 具体事例可以参考一下w3school的 [example](http://www.w3schools.com/cssref/tryit.asp?filename=trycss3_transition)。
 
-两者相互搭配的效果可以参考[示例](https://codepen.io/hejiaji/pen/bZJQOj)
+两者相互搭配的效果可以[参考示例](https://codepen.io/hejiaji/pen/bZJQOj)
 
 ```
 transition: transform 1s ease-in-out;
@@ -52,7 +52,7 @@ keyframes的基本使用方式如下：
     to {background-color: yellow;}
 }
 ```
-该keyframes的规则指定背景色从红变黄，参考[示例](https://codepen.io/hejiaji/pen/VjNVNb)  
+该keyframes的规则指定背景色从红变黄，[参考示例](https://codepen.io/hejiaji/pen/VjNVNb)
 另外，在示例中，div css代码如下:
 
 ```
@@ -78,11 +78,11 @@ div {
 	   100% { transform: rotate(90deg); -webkit-transform: rotate(90deg) }
 	}
 	```
-请参考具体[示例](https://codepen.io/hejiaji/pen/LkvrPx)
+请参考[具体示例](https://codepen.io/hejiaji/pen/LkvrPx)
 -	transfrom + transition并不支持重复动画，而animation一个属性就可以办到
 	> animation-iteration-count: infinite;
 	
-	请查看Infinite animation[示例](http://codepen.io/hejiaji/pen/QEPzWY)
+	请参考[Infinite animation示例](http://codepen.io/hejiaji/pen/QEPzWY)
 
 #	总结
 总体来说，animation比transform + transition强大一点点，具体使用哪个要视具体需求而定。   
