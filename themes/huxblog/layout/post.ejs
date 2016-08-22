@@ -49,7 +49,7 @@ layout: layout
 
                 <hr>
 
-                <% if(config['duoshuo_share'] && config['duoshuo_username']) { %>
+                <% if(config['duoshuo_share'] && config['duoshuo_username'] && page.comments ) { %>
                 <!-- 多说 Share start -->
                 <div class="ds-share"
                     style="text-align: right"
@@ -86,7 +86,7 @@ layout: layout
                     <% } %>
                 </ul>
 
-                <% if(config['duoshuo_username']) { %>
+                <% if(config['duoshuo_username'] && page.comments ) { %>
                 <!-- 多说评论框 start -->
                 <div class="comment">
                     <div class="ds-thread"
@@ -98,7 +98,7 @@ layout: layout
                 <!-- 多说评论框 end -->
                 <% } %>
 
-                <% if(config['disqus_username']) { %>
+                <% if(config['disqus_username'] ) { %>
                 <!-- disqus 评论框 start -->
                 <div class="comment">
                     <div id="disqus_thread" class="disqus-thread"></div>
@@ -161,7 +161,7 @@ layout: layout
     </div>
 </article>
 
-<% if(config['duoshuo_username']) { %>
+<% if(config['duoshuo_username'] && page.comments ) { %>
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
     // dynamic User by Hux

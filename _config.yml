@@ -40,10 +40,8 @@ linkedin_username:  jeremy-he-a5809611a
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 # Disqus settings
-disqus_username: hejiaji
+duoshuo_username: hejiaji
 
-# Duoshuo settings
-# duoshuo_username: kaijun
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 

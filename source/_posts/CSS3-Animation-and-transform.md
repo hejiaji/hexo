@@ -4,6 +4,7 @@ subtitle: The differences between transition/transform and animation in CSS3
 header-img: /img/post-css-difference.jpg
 date: 2016-08-19 15:33:16
 tags: CSS3
+comments: True
 ---
 # 前言
 众所周知，CSS3的其中一个令人兴奋的较大改变便是加入了动画效果，没错！不用JQuery或其他第三方库，单单几行CSS代码，就可以写出一些非常棒的动画页面。目前， 各大浏览器厂商已经逐渐兼容这些CSS3语法，所以使用它你不用过多考虑兼容性问题。
