@@ -15,6 +15,7 @@ comments: True
 -   90s
 - 	Love movies, sports, music and travel
 -	Beijing
+-   Works in [ThoughtWorks](https://www.thoughtworks.com/)
 
 # About blog
 -	Just a place for some technique notes and something about life
