@@ -7,7 +7,7 @@ hexo server, then visit http://localhost:4000
 hexo generate or hexo g
 
 ## deploy
-hexo deploy
+hexo deploy after configure the github info in _config.yml
 
 
 	
