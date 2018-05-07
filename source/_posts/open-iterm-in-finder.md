@@ -14,11 +14,11 @@ tags: 译
 
 ### 第一步
 
-打开 `Automator`
+打开 **Automator**
 
 ### 第二步
 
-`File` - `New` - `Service`
+**File** - **New** - **Service**
 
 顶上的第一个下拉框选择 **files or folders**, 第二个下拉框选择 **Finder.app**
 
@@ -38,10 +38,10 @@ fi
 
 ### 第三步
 
-`File` - `Save` - 保存service名为 `Open iTerm Here`
+**File** - **Save** - 保存service名为 **Open iTerm Here**
 
 
-如果你之后需要对它进行修改，它的位置在 `~/Library/Services`
+如果你之后需要对它进行修改，它的位置在 **~/Library/Services**
 
 现在你已经可以尝试下新功能啦！
 
