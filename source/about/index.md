@@ -14,8 +14,9 @@ comments: True
 -	Full-stack developer
 -   90s
 - 	Love movies, sports, music and travel
--	Beijing
--   Works in [ThoughtWorks](https://www.thoughtworks.com/)
+-	Sydney, Australia
+-   Works in [SafetyCulture](https://safetyculture.com/)
+-   Worked in [ThoughtWorks](https://www.thoughtworks.com/)
 
 # About blog
 -	Just a place for some technique notes and something about life
