@@ -1,6 +1,6 @@
 ---
 title: Australia PR timeline
-subtitle: The trace of us becoming Australia permanent residency
+subtitle: The trace of us becoming Australia permanent resident
 header-img: /img/post/australia.jpg
 date: 2020-07-21 08:33:16
 tags: life
