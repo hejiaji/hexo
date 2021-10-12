@@ -18,5 +18,6 @@ comments: True
 -   Works in [SafetyCulture](https://safetyculture.com/)
 -   Worked in [ThoughtWorks](https://www.thoughtworks.com/)
 
-# About blog
--	Just a place for some technique notes and something about life
+# Contacts
+- [Resume](https://hejiaji.cn/resume)
+- [Email](mailto:hejiaji16888@gmail.com)
